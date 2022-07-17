@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Money  Wallet</string>
+    <string name="add_expense">Add Expense</string>
+    <string-array name="income_category_array">
+        <item>Select Category</item>
+        <item>Salary</item>
+        <item>Business</item>
+        <item>Tution</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="expense_category_array">
+        <item>Select Category</item>
+        <item>Food</item>
+        <item>Rent</item>
+        <item>Bill</item>
+        <item>Others</item>
+    </string-array>
+</resources>
